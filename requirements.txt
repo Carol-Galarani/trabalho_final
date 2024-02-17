@@ -1,6 +1,6 @@
 altgraph==0.17.3
 asgiref==3.6.0
-aspose-words>=23.6.0
+aspose-words==23.6.0
 asttokens==2.2.1
 async-generator==1.10
 attrs==23.1.0
